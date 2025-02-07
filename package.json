@@ -16,5 +16,10 @@
   },
   "dependencies": {
     "express": "^4.19.2"
-  }
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/BattlesnakeOfficial/starter-snake-javascript/issues"
+  },
+  "homepage": "https://github.com/BattlesnakeOfficial/starter-snake-javascript#readme"
 }
